@@ -1,2 +1,3 @@
-# channel-website
-The website of my YouTube channel and music projects
+# Channel Website
+
+The website of my YouTube channel and music projects.
